@@ -10,19 +10,19 @@ img {
 
 .AboutLaura p {
   width: 30%;
-  float: center;
+  float: right;
   background-color: gray;
   border: 4px solid green;
-  margin: 12px;
+  margin: 26px;
   padding: 8px;
 }
 
 .sidebar {
   width: 30%;
-  float: right;
+  float: left;
   background-color: green;
   border: 4px solid grey;
-  margin: 12px
+  margin: 26px
   padding: 8px;
 }
 
